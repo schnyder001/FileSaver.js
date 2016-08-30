@@ -1,0 +1,11 @@
+(function($) {
+    $("p.required").html(
+        "By clicking the submit button you are agreeing with the competition <a style="
+        text - decoration: none;
+        " href=" {
+            {
+                store direct_url = "terms-=and-conditions"
+            }
+        }
+        "><strong>terms and conditions</strong></a>")
+})(jQuery);
